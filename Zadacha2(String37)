@@ -1,3 +1,5 @@
+//Даны строки S, S1, S2. Заменить в строке S последнее вхождение строки S1 на строку S2.
+
 #include <iostream>
 #include <string>
 using namespace std;
